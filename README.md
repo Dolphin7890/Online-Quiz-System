@@ -27,20 +27,20 @@ Admins (teachers) can create quizzes, add students, manage classes, and track re
  User Side
 | Page | Screenshot |
 |------|------------|
-| Login Page | ![User Login](screenshots/user_login.png) |
-| Dashboard | ![User Dashboard](screenshots/user_dashboard.png) |
-| Quiz Page | ![Quiz](screenshots/quiz_page.png) |
-| Quiz Complete | ![Quiz Done](screenshots/quiz_done.png) |
+| Login Page | ![User Login](screenshots/user_login.jpeg) |
+| Dashboard | ![User Dashboard](screenshots/user_dashboard.jpeg) |
+| Quiz Page | ![Quiz](screenshots/quiz_page.jpeg) |
+| Quiz Complete | ![Quiz Done](screenshots/quiz_done.jpeg) |
 
  Admin Side
 | Page | Screenshot |
 |------|------------|
-| Login Page | ![Admin Login](screenshots/admin_login.png) |
-| Dashboard | ![Admin Dashboard](screenshots/admin_dashboard.png) |
-| Create Test | ![Create Test](screenshots/create_test.png) |
-| Test Details | ![Test Details](screenshots/test_details.png) |
-| Add Question | ![Add Question](screenshots/add_question.png) |
-| Student Result | ![Student Result](screenshots/student_result.png) |
+| Login Page | ![Admin Login](screenshots/admin_login.jpeg) |
+| Dashboard | ![Admin Dashboard](screenshots/admin_dashboard.jpeg) |
+| Create Test | ![Create Test](screenshots/create_test.jpeg) |
+| Test Details | ![Test Details](screenshots/test_details.jpeg) |
+| Add Question | ![Add Question](screenshots/add_question.jpeg) |
+| Student Result | ![Student Result](screenshots/student_result.jpeg) |
 
 
 👨‍💻 User Side
